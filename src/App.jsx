@@ -9,11 +9,6 @@ export default function App() {
         <Sedans />
         <Suvs />
         <Luxuosos />
-        
-
-        
-
-       
       </section>
     </main>
   );
